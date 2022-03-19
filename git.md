@@ -30,3 +30,7 @@ graph TD
     B-->D(fa:fa-spinner);
     B-->E(A fa:fa-camera-retro perhaps?);
 ```
+```mermaid
+    graph  LR
+        A["A double quote:#quot;"] -->B["A dec #9798; char:#9829;"]
+```
